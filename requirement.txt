@@ -1,0 +1,12 @@
+streamlit
+scikit-learn
+nltk
+fuzzywuzzy
+python-Levenshtein
+sentence-transformers
+distance
+beautifulsoup4
+matplotlib
+seaborn
+numpy
+pandas
